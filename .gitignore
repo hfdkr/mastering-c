@@ -1,0 +1,15 @@
+# executables
+*.exe
+a.out
+a.out.exe
+
+# object files
+*.o
+
+# IDE files
+.vscode/
+.idea/
+
+# temp files
+*.tmp
+*~
