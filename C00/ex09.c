@@ -1,25 +1,30 @@
-
-/* ex 10 */
-
 #include <unistd.h>
+
+/*
+** Exercise: practice (ex09)
+** Description:
+**   This program prints numbers from 0 to 9.
+**   Each number is followed by ", " except the last one.
+**   It demonstrates loops and conditional output formatting.
+*/
+
 int main(void)
 {
-    int i = 0;
-    char n;
-    char v;
+    int i;
     char c;
+
+    i = 0;
     while (i < 10)
     {
         c = i + '0';
-        v = ' ';
-        n = ',';
+
         if (i < 9)
         {
             write(1, &c, 1);
-            write(1, &n, 1);
-            write(1, &v, 1);
+            write(1, ", ", 2);
         }
-        if(i==9){
+        else
+        {
             write(1, &c, 1);
         }
         i++;

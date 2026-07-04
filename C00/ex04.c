@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /*
-** Exercise: Practice (not official C00 exercise)
+** Exercise 04: Practice (not official C00 exercise)
 ** Description:
 **   This program prints the alphabet in reverse order
 **   from 'z' to 'a' using a while loop and write().

@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /*
-** Exercise: ex00
+** Exercise: ex01
 ** Name: Hello Hafid
 ** Description:
 **   This program prints two messages to the standard output

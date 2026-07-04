@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /*
-** Exercise: practice
+** Exercise 06: practice
 ** Description:
 **   This program prints digits from 0 to 9,
 **   each number followed by a newline.
