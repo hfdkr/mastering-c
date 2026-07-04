@@ -20,3 +20,23 @@ This repository contains my journey of learning the C programming language from 
 - Improve problem solving skills
 
 ---
+
+
+## Progress
+
+- [x] C00
+- [x] C01
+- [ ] C02
+- [ ] C03
+- [ ] C04
+- [ ] C05
+- [ ] C06
+- [ ] C07
+- [ ] C08
+- [ ] C09
+
+---
+
+## Author
+
+Hafid
