@@ -9,3 +9,14 @@ This repository contains my journey of learning the C programming language from 
 - C00: Basics (variables, loops, write)
 - C01: Pointers introduction
 - C02 - C09: Coming soon
+
+
+---
+
+## Goals
+
+- Learn C programming fundamentals
+- Understand memory and pointers
+- Improve problem solving skills
+
+---
