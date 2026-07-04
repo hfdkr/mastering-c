@@ -4,16 +4,17 @@
 ** Exercise: ex02
 ** Name: ft_print_numbers
 ** Description:
-**   This program prints the digits from 0 to 9
-**   using a while loop and the write system call.
-**   It converts integers to characters using ASCII ('0').
+**   Prints digits from 0 to 9 using a while loop.
+**   Each integer is converted to its ASCII character
+**   by adding '0'.
 */
 
 int main(void)
 {
-    int i = 0;
+    int i;
     char c;
 
+    i = 0;
     while (i < 10)
     {
         c = i + '0';
